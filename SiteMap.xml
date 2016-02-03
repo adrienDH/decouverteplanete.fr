@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.decouverteplanete.fr">
+
+   <url>
+      <loc>http://www.decouverteplanete.fr/Index.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.decouverteplanete.fr/Source.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+    <url>
+      <loc>http://www.decouverteplanete.fr/PlanSite.php></loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+    <url>
+      <loc>http://www.decouverteplanete.fr/Contact.php></loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.decouverteplanete.fr/Mars/PlaneteMars.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+   <url>
+      <loc>http://www.decouverteplanete.fr/Venus/PlaneteVenus.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url> <url>
+      <loc>http://www.decouverteplanete.fr/Actualite.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+   </url> <url>
+      <loc>http://www.decouverteplanete.fr/Don.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+    </url> <url>
+      <loc>http://www.decouverteplanete.fr/Commentaires.php</loc>
+	  <changefreq>weekly</changefreq>
+   </url>
+
+</urlset> 

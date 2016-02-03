@@ -1,0 +1,200 @@
+body
+{
+	margin: 0; 
+	padding: 0;	
+	overflow-x: hidden;
+	background-image:url(ImagesMercure/Mercure.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+#header
+{
+	background-image:url(ImagesMercure/HeaderPic.png);
+	background-size:100% 100%;
+	left:0px;
+	top:0px;
+	color:white;
+	text-align:center;	
+	font-size:50px;
+	padding: 20px 0 20px 0 ;	
+}
+
+#footer 
+{
+	
+    width:100%;
+    color:white;
+    background-color:#CD853F;
+    text-align:center;
+	position:relative;
+	left:0px;
+	opacity:0.8;
+}
+
+.contenu
+{
+	background-color : rgba(211, 211, 211, 0.8);
+	border-radius:7px;
+	display: table;
+    margin: 20px 0px 0px 200px ;
+    width: 950px;
+	padding: 10px 10px 10px 10px ;	
+	text-align:justify;
+}
+
+p
+{
+	font-size:20px;
+}
+
+#ContenuPrincipal
+{ 
+	background-color : rgba(211, 211, 211, 0.8);
+	border-radius:7px;
+	display: table;
+	margin: 20px 0px 0px 200px ;
+	width: 950px;
+	padding: 10px 10px 10px 10px ;	
+	text-align:justify;
+}
+
+nav 
+{
+    width:100%;
+}
+
+nav ul {
+	padding-left:20%;
+    margin: 0 auto;
+    width: 100%;
+    list-style: none;
+	background: #778899 ;
+	padding-right:auto;
+}
+
+nav ul li
+{
+    float: left;
+}
+ 
+nav ul li a 
+{
+    display: block;
+    margin-right: 0px;
+    width: 200px;
+    text-align: center;
+    text-decoration: none;
+    min-width: 130px;
+    max-width: 200px;
+}
+
+nav ul li a:hover
+{  
+    color: white;
+    background:#D2691E;
+}  
+
+nav 
+{
+    background: #CD853F;  
+}  
+
+nav ul li a 
+{
+    color: white;
+}  
+
+nav ul li a:hover 
+{  
+    color: white;
+    background: #D2691E;
+}  
+
+nav ul li.selected a 
+{  
+    color: white;
+    background: #046EAB;
+}
+
+nav {
+	height:40px;
+}
+
+nav ul li a {
+    font-size: medium;
+    font-weight: bold;
+    line-height: 40px;
+} 
+
+#paragraphe
+{
+	cursor:pointer;
+	list-style:none;
+	font-family:arial;
+	font-size:18px;
+	margin:o auto;
+	padding:0;
+}
+
+#paragraphe li
+{
+	position:relative;
+	
+}
+
+#paragraphe p
+{
+	font-family:arial;
+	font-size:22px;
+	display:none;
+	
+}
+
+#paragraphe h2
+{
+	font-family:arial;
+	font-size:22px;
+}
+
+#MenuGauche
+{
+	position:fixed;
+	top:20%;
+	margin-left:0%;
+	background-color:rgba(211, 211, 211, 0.8);
+	border-radius:10px;
+}
+
+
+#MenuGauche a
+{
+	position:relative;
+	font-size:150%;
+	color:black;
+    border: 3px linear-gradient(white, #696969) solid;
+	border-radius:5px;
+	text-decoration: none; 
+	opacity:0.8;
+	padding:0px 10px 0px 10px;
+	background-image:linear-gradient(white, #696969);
+}
+
+#MenuGauche a:hover
+{
+	position:relative;
+	font-size:150%;
+	color:black;
+	background-image:linear-gradient(white, red) ;
+	border-radius:5px;
+	text-decoration: none; 
+	opacity:0.8;
+}
+
+#TitreMenu
+{
+	font-size:150%;
+	padding:10px 10px 10px 10px;
+	background:#808080;
+	border-radius:10px 10px 0px 0px;
+}
